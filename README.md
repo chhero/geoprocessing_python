@@ -21,7 +21,7 @@ FILES DIRECTORY
 
 data_dir = r'replace_with_your_own_path'
 data_path_global = r"replace_with_your_own_path"
-# Set the path to your shapefile
+<--Set the path to your shapefile-->
 world = gpd.read_file(data_path_global)
 
 <---END--->
