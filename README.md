@@ -1,8 +1,10 @@
 
 **Please study the code and refrain from copy pasting**
 
-    Since the code is explain per comment, while adding it to your chapter better to learn it at the same time
-    All of the outputs and paths should be change according to your folder and file path
+    Since the code is explain per comment, while adding it to your
+    chapter better to learn it at the same time
+    All of the outputs and paths should be change
+    according to your folder and file path
 
 **Since the guide for the Geoprocessing With Python is Kinda depreciated**
 
